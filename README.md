@@ -24,17 +24,17 @@
   ### :man_technologist: A propos de moi:
   Je suis un developpeur Front-end <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> habitant en France
 
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: Je travaille sur des projets personnels
 
-  - :seedling: Exploring Technical Content Writing.
+  - :seedling: J'apprends actuellement Redux
   
-  - :zap: Sur mon temps libre je suis passionné de trading card game et par la photogaphie
+  - :zap: Sur mon temps libre je suis passionné par les trading card game et la photographie
   
   - :mailbox: Comment me contacté : [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-couillet/)
 
   ---
   
-  ### :hammer_and_wrench: Languages and Tools :
+  ### :hammer_and_wrench: Languages et outils :
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@
 
   ---
   
-  ### :fire: My Stats :
+  ### :fire: Mon activité :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanotekfr&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanotekfr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
