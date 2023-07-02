@@ -50,7 +50,7 @@
   ---
   
   ### :fire: Mon activité :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanotekfr&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanotekfr&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanotekfr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ---
