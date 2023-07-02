@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   
+  ### Bienvenu 👋
+  <a href="https://app.daily.dev/Nanotek"><img src="https://api.daily.dev/devcards/6484b0b2f8264eedbbf4c0532018fbdd.png?r=0gc" width="400" alt="C D's Dev Card"/></a>
 
 
   <div id="badges">
@@ -12,8 +14,6 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=Nanotekfr&style=flat-square&color=blue" alt=""/>
-  
-  ### Bienvenu 👋
   
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -54,6 +54,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanotekfr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ---
+
 
   ### :writing_hand: Blog Posts :
   <!-- BLOG-POST-LIST:START -->
