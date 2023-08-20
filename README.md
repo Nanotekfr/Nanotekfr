@@ -1,7 +1,6 @@
 <div id="header" align="center">
    
   ### Bienvenu 👋
-  <a href="https://app.daily.dev/Nanotek"><img src="https://api.daily.dev/devcards/6484b0b2f8264eedbbf4c0532018fbdd.png?r=0gc" width="400" alt="C D's Dev Card"/></a>
 
    <div id="badges">
     <a href="https://www.linkedin.com/in/dylan-couillet/">
